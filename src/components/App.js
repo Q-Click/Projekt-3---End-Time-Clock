@@ -50,6 +50,7 @@ class App extends Component {
   handleClick = () => {
     const activatedClock = document.querySelector("p");
     const activatedText = document.querySelector(".cloud");
+    const btn = document.querySelector("button");
     if (this.state.active) {
       clearInterval(this.idInterval);
       clearInterval(this.idInterval2);
@@ -63,6 +64,7 @@ class App extends Component {
       }, 5000);
       activatedClock.classList.add("active");
       activatedText.classList.add("active");
+      btn.style.visibility = "hidden";
     }
     this.setState({
       active: !this.state.active,
