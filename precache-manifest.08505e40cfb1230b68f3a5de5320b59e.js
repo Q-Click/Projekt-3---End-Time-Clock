@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a613ff38283205fff12468f822ffc6c",
+    "revision": "57af5f391c5a1e2e9235aaa1cdd9d407",
     "url": "/Projekt-3---End-Time-Clock/index.html"
   },
   {
-    "revision": "48cf0bb931741f29e044",
+    "revision": "21c160d89c3c425d0d20",
     "url": "/Projekt-3---End-Time-Clock/static/css/main.76e357b0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Projekt-3---End-Time-Clock/static/js/2.5f37cb79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48cf0bb931741f29e044",
-    "url": "/Projekt-3---End-Time-Clock/static/js/main.41ace176.chunk.js"
+    "revision": "21c160d89c3c425d0d20",
+    "url": "/Projekt-3---End-Time-Clock/static/js/main.4effa84c.chunk.js"
   },
   {
     "revision": "99c3e04034a5011544ba",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Projekt-3---End-Time-Clock/precache-manifest.6e114055404121e9261d55f4f647e159.js"
+  "/Projekt-3---End-Time-Clock/precache-manifest.08505e40cfb1230b68f3a5de5320b59e.js"
 );
 
 self.addEventListener('message', (event) => {
