@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57af5f391c5a1e2e9235aaa1cdd9d407",
+    "revision": "e05983c87ece4e02a56151fee7919cd1",
     "url": "/Projekt-3---End-Time-Clock/index.html"
   },
   {
